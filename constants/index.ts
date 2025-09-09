@@ -60,7 +60,7 @@ export const recommended = [
       "https://avatars.mds.yandex.net/i?id=1322f2e4342abeb07a92b46d4c2e4d875a8acc02-4551895-images-thumbs&n=13",
   },
   {
-    title: "Shamsiking",
+    title: "Shamsikingdd",
     followBy: 13,
     id: 3,
     avatar:
