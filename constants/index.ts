@@ -53,7 +53,7 @@ export const recommended = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBNbZWafQiot8ze9WpBpWBBIUj1sSxHhNE5Q&s",
   },
   {
-    title: "AlyoshaPopovichd",
+    title: "AlyoshaPoposvicshd",
     followBy: 33,
     id: 2,
     avatar:
